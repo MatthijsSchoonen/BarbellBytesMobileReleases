@@ -11,7 +11,7 @@ BarbellBytes is een mobiele app waarmee je eenvoudig je workouts kunt bijhouden 
 ## Installatie
 
 ### Android
-1. Download de APK van onze [github] https://github.com/MatthijsSchoonen/BarbellBytesMobileReleases.
+1. Download de APK van onze [github](https://github.com/MatthijsSchoonen/BarbellBytesMobileReleases).
 2. Installeer de APK op je Android-apparaat.
 
 ### iOS
