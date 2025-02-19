@@ -1,6 +1,7 @@
 # BarbellBytes
 
-BarbellBytes is een mobiele app waarmee je eenvoudig je workouts kunt bijhouden en delen met vrienden. Of je nu een beginner bent of een ervaren atleet, BarbellBytes helpt je om je vooruitgang te volgen en gemotiveerd te blijven!
+BarbellBytes is een mobiele app waarmee je eenvoudig je workouts kunt bijhouden en delen met vrienden. Of je nu een beginner bent of een ervaren atleet, BarbellBytes helpt je om je vooruitgang te volgen en gemotiveerd te blijven!\
+(https://barbellbytes.nl)
 
 ## Features
 
